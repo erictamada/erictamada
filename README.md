@@ -17,6 +17,7 @@ Software Engineer | Data & DevOps Enthusiast
   <img align="center" alt="git" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-
+<br/>
+<br/>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erictamada&layout=compact)
 
