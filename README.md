@@ -19,5 +19,6 @@ Software Engineer | Data & DevOps Enthusiast
 
 <br/>
 <br/>
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erictamada&layout=compact)
 
