@@ -1,5 +1,5 @@
 # I'm Eric! ✍️
-Software Engineer | Data & DevOps Enthusiast
+Data Engineer & Machine Learning Enthusiast
 
 <!-- 
 # About me 🚀 
